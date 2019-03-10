@@ -203,6 +203,10 @@ a:link {
     text-decoration: none !important;
 }
 
+div > a {
+  align-self: center;
+}
+
 #footer {
   display: flex;
   flex-direction: column;
